@@ -1,0 +1,17 @@
+https://web.dio.me/course/dominando-ides-java/learning/b0f1ae39-6af7-4a2c-8fc2-c73ae8463c84/?back=/browse
+
+Fazer sequencia: Ambiente de Desenvolvimento Windows
+Precisa fazer apenas a sequencia do Intellij
+https://www.beecrowd.com.br/judge/en/problems/view/1002
+double n = 3.14159;
+        Scanner scan = new Scanner(System.in);
+        double r = scan.nextDouble();
+        double a = n * Math.pow(r, 2);
+        
+        System.out.printf("A=%.4f%n"+a);
+        scan.close();
+
+
+https://www.youtube.com/watch?v=q4NsamyT3DQ
+
+
